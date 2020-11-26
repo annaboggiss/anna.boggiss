@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anna Boggiss
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Auckland
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include the development clinically-usable interventions; self-compassion; positive psychology; research in diabetes; chronic illness; adolescent mental health
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Self-compassion
+- Adolescent mental health
+- Clinically usable interventions
 
 education:
   courses:
@@ -69,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anna is a PhD Candidate in the Department of Psychological Medicine supervised by Dr Anna Serlachius, Professor Nathan Consedine, and Professor Paul Hofman. Anna's reasearch focuses on developing a clinically usable self-compassion program for adolescents and young adults with type 1 diabetes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alongside her PhD, Anna works as a research assistant on the Whitu app (developed during COVID-19) with Dr Anna Serlachius and Dr Hiran Thabrew and as a research interviewer with Dr Gary Cheung and Dr Kathy Peri on cognitive stimulation therapy (CST) for people with dementia. Anna also works as a mindfulness and self-compassion teacher at Brthe mindfulness studio.
+
+Prior to beginning her PhD, Anna completed a Postgraduate Diploma in Health Sciences (Health Psychology) at the University of Auckland and completed a Bachelor of Arts at Victoria University in Wellington (with a semester spent at Olgethore University in Atlanta, Georgia, USA, on academic scholarship).
